@@ -8,7 +8,6 @@ aside:hover {
     display: inline-block;
 }
 
-/* Borders, spacing and backgrounds demonstrate the CSS box model. */
 aside {
     border: 4px inset purple;
     border-radius: 14px;
@@ -33,7 +32,7 @@ footer {
     clear: both;
 }
 
-/* Float the four sections into two equal columns. */
+/* Float  */
 #lists {
     float: left;
 }
